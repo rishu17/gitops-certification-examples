@@ -16,6 +16,6 @@ spec:
     spec:
      containers:
       - name: "my-app-sha256-1"
-        image: "gcr.io/rich-brace-364005/my_app@sha256:fba10a586276f92072ee180f703949ce5bfbc5f65273c9792dc8e2b865abe3ec"
+        image: "gcr.io/rich-brace-364005/my_app@sha256:16321da97faa307c9a8aa454e2392bdd1fd09746c0dfd45b9dc101ba168f1729"
         ports:
         - containerPort: 80
